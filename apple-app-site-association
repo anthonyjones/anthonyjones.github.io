@@ -1,5 +1,20 @@
 {
     "webcredentials": {
-        "apps": ["YQX2QEJ2LC.us.parkmobile.ParkMobile"]
+        "apps": [
+            "YQX2QEJ2LC.us.parkmobile.ParkMobile",
+            "BQWTAZAFW9.us.parkmobile.Park915",
+            "BQWTAZAFW9.us.parkmobile.ParkColumbus",
+            "BQWTAZAFW9.us.parkmobile.717Parking",
+            "BQWTAZAFW9.us.parkmobile.ParkMPLS",
+            "BQWTAZAFW9.us.parkmobile.ParkLancaster",
+            "BQWTAZAFW9.us.parkmobile.GoMobilePGH",
+            "BQWTAZAFW9.us.parkmobile.parkHouston",
+            "BQWTAZAFW9.us.parkmobile.ParkItCharlotte",
+            "BQWTAZAFW9.us.parkmobile.ParkMilwaukee",
+            "BQWTAZAFW9.us.parkmobile.meterUP",
+            "BQWTAZAFW9.us.parkmobile.FWPark",
+            "BQWTAZAFW9.us.parkmobile.ParkLouie",
+            "BQWTAZAFW9.us.parkmobile.ParkPremier"            
+        ]
     }
 }
